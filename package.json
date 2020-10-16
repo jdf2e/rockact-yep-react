@@ -37,7 +37,7 @@
     "typescript": "^3.2.2"
   },
   "dependencies": {
-    "@jdcfe/yep-react": "^1.0.0-alpha.13",
+    "@jdcfe/yep-react": "^1.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
